@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Paul Mwangi</h1>
 
 <p align="center">
@@ -51,3 +52,63 @@ class Paul:
 
     def motto(self):
         return "Learn. Build. Iterate."
+
+```
+
+## 🚀 Current Focus
+
+* 📈 Building quantitative trading and backtesting systems (focusing on C++ data engines and market microstructure).
+* 🤖 Exploring machine learning pipelines for generating financial market signals.
+* 🧮 Learning advanced mathematics, stochastic processes, and portfolio optimization.
+* ⚙️ Developing automation tools and robust data architectures for the NSE.
+* 🧠 Improving engineering problem-solving skills daily within Linux environments.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+### ⚙️ Development & Infrastructure
+
+### 📊 Data Science & Databases
+
+---
+
+## 📌 Featured Projects
+
+**📈 NSE Alpha Trading Infrastructure**
+
+> Development of a quantitative trading system and C++ based MITCH data engine tailored for the Nairobi Securities Exchange, including rigorous backtesting frameworks and portfolio optimization.
+
+**📊 Market Analytics Dashboard**
+
+> Interactive dashboard built with Python for visualizing financial, timeseries, and market orderbook data to extract actionable insights.
+
+**🤖 ML Signal Engine**
+
+> Experimental machine learning pipeline leveraging statistical modeling and historical data sets for generating predictive market signals.
+
+**⚡ Automation Utilities**
+
+> Custom scripts and tools for API integrations, workflow automation, and managing robust data stacks using PostgreSQL.
+
+---
+
+## 🌐 Connect With Me & Stats
+
+---
+
+## ⚡ Fun Zone
+
+```python
+while alive:
+    learn()
+    build()
+    improve()
+
+```
+
+```
+
+```
