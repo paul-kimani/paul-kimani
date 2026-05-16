@@ -27,7 +27,7 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 ![](https://streak-stats.demolab.com/?user=paul-kimani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=paul-kimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
