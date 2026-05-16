@@ -14,7 +14,7 @@
 
 ---
 
-## 🌌 About Me
+
 
 # 💫 About Me:
 Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a quant researcher
