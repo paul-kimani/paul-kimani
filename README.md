@@ -38,3 +38,5 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 ---
 [![](https://komarev.com/ghpvc/?username=paul-kimani&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/paul-kimani/paul-kimani/blob/output/github-contribution-grid-snake-dark.svg)
