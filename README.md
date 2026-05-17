@@ -68,6 +68,7 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 
 
 <!--🖼️ILOVEOPENSOURCE-->
+<p align="center">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
