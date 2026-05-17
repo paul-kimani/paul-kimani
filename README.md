@@ -3,6 +3,10 @@
 -- <h1 align="center">Paul Mwaniki</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=PAUL+KIMANI;Financial+Engineering+Student;Machine+Learning+Explorer;Physics+%2B+Math+Enjoyer;Building+Cool+Things" />
+</p>
+
+<p align="center">
   <b>Financial Engineering Student • Developer • Quant Enthusiast</b>
 </p>
 
