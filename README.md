@@ -283,6 +283,7 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
+<img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
