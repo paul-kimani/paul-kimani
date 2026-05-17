@@ -1,21 +1,6 @@
 <!--
 
--- <h1 align="center">Paul Mwaniki</h1>
 
-
-<p align="center">
-  <b>Financial Engineering Student • Developer • Quant Enthusiast</b>
-</p>
-
-<p align="center">
-  Building at the intersection of finance, mathematics, markets, and software engineering.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Financial+Engineering+Student;Quantitative+Finance+Explorer;Machine+Learning+Enthusiast;Physics+%2B+Mathematics+Self-Learner;Building+Trading+Systems+and+Data+Tools;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
----
 
 <!--Replace <username> with your own GitHub username.-->
 <!--
@@ -60,6 +45,25 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+-- <h1 align="center">Paul Mwaniki</h1>
+
+
+<p align="center">
+  <b>Financial Engineering Student • Developer • Quant Enthusiast</b>
+</p>
+
+<p align="center">
+  Building at the intersection of finance, mathematics, markets, and software engineering.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Financial+Engineering+Student;Quantitative+Finance+Explorer;Machine+Learning+Enthusiast;Physics+%2B+Mathematics+Self-Learner;Building+Trading+Systems+and+Data+Tools;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+---
 
 <!--🖼️ILOVEOPENSOURCE-->
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
