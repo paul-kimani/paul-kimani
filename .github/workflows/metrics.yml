@@ -1,4 +1,3 @@
-```yaml id="ql8k0r"
 name: Metrics
 
 on:
@@ -55,4 +54,3 @@ jobs:
 
           plugin_activity: yes
           plugin_activity_limit: 5
-```
