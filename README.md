@@ -166,11 +166,11 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=paul-kimani&show_icons=true&theme=merko&border_color=599200">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=trinib&theme=merko&border=599200">
+<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=paul-kimani&theme=merko&border=599200">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<a href="https://github.com/paul-kimani/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-paul-kimani-projects.vercel.app/api/top-langs?username=paul-kimani&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
