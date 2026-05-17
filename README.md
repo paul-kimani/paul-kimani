@@ -69,7 +69,6 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 ---
 
 
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=paul-kimani&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=monica&theme=monica&color=%23ffffffFF&hide=avatar%2Ccommits%2Ccontributions%2Cissues%2Cprs%2Crank%2Cstars">
 
 <!--🖼️ILOVEOPENSOURCE-->
 <p align="center">
@@ -335,7 +334,7 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
  
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
@@ -345,11 +344,6 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 <i>Last refresh</i> : <b>Friday, April 24th, 2026, 3:12:54 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
-<br><p align="center">
-<a href="https://github.com/trinib/trinib/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=trinib/trinib&anon=true" />
-</a>
 
 <!-- 
 
