@@ -66,7 +66,7 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://open.spotify.com/embed/track/5n9PL4NTDNQiuFXFVc7euj?utm_source=generator"><img src="https://open.spotify.com/embed/track/5n9PL4NTDNQiuFXFVc7euj?utm_source=generator" height="240" width="370"></a>
+<a href="https://open.spotify.com/embed/track/5n9PL4NTDNQiuFXFVc7euj?utm_source=generator"><img src="https://github.com/paul-kimani/paul-kimani/blob/main/alone-bitcoin.gif" height="240" width="370"></a>
 
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
