@@ -38,4 +38,3 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 ---
 [![](https://komarev.com/ghpvc/?username=paul-kimani&icon=0&color=0)](https://visitcount.itsvg.in)
 
--- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
