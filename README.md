@@ -36,7 +36,7 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 -->
 
 
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imhalid&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar%2Ccommits%2Ccontributions%2Cissues%2Cprs%2Crank%2Cstars">
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=paul-kimani&screen_effect=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=avatar%2Ccommits%2Ccontributions%2Cissues%2Cprs%2Crank%2Cstars">
 
 
 
