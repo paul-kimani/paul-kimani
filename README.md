@@ -197,7 +197,8 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 <img src="https://komarev.com/ghpvc/?username=paul-kimani&color=0E9C47&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph-paul-kimani-projects.vercel.app/graph?username=paul-kimani&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paul-kimani&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
