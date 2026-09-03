@@ -21,8 +21,8 @@ The cards below are generated from my own backtest exports by
 ### Live strategies
 
 <p align="center">
-  <img src="./assets/card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
-  <img src="./assets/card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
+  <img src="card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
+  <img src="card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
 </p>
 
 | Project | Stack | What it does |
