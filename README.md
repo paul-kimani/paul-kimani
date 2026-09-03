@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
+  <img src="header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
 </p>
 
 <p align="center">
