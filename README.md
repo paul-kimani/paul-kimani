@@ -1,71 +1,83 @@
-<h1 align="center">Paul Mwaniki</h1>
-
 <p align="center">
-  <b>Financial Engineering · Quantitative Research · Trading Systems</b>
+  <img src="./assets/header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
 </p>
 
 <p align="center">
-  <a href="https://paul-quant.vercel.app">Website</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> ·
-  <a href="mailto:you@example.com">Email</a>
+  <a href="https://paul-quant.vercel.app"><img src="https://img.shields.io/badge/Website-paul--quant-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-reach%20out-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
 </p>
 
----
+Year 3 Financial Engineering at Strathmore Institute of Mathematical Sciences. I build systematic
+trading strategies end to end — hypothesis, backtest, execution logic, live deployment — and spend
+the rest of my time on the statistics and machine learning that decide whether a model is worth
+trusting.
 
-Financial Engineering student at Strathmore Institute of Mathematical Sciences, working at the
-intersection of markets, mathematics and software. I build and test systematic trading strategies
-end to end — hypothesis, backtest, execution logic, live deployment — and spend the rest of my time
-on the machine learning and statistics that make the models worth trusting.
-
-**Currently focused on**
-
-- Systematic strategy design and execution logic for FX and metals
-- Backtesting infrastructure, walk-forward validation and honest performance attribution
-- Time series modelling, volatility estimation and regime detection
-- Machine learning fundamentals — interpretability, and how architecture shapes capability
+The cards below are generated from my own backtest exports by
+[`scripts/profile_cards.py`](./scripts/profile_cards.py), and refreshed by a scheduled Action.
 
 ---
 
-### Selected work
+### Live strategies
 
-| Project | Stack | Description |
+<p align="center">
+  <img src="./assets/card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
+  <img src="./assets/card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
+</p>
+
+| Project | Stack | What it does |
 |---|---|---|
 | [Gold Pulse](https://github.com/paul-kimani/gold-pulse) | C# · cTrader | Momentum and volatility-pulse indicator for XAUUSD, ported from Indie to an automated cBot. |
-| [Squeeze Pulse Breakout](https://github.com/paul-kimani/squeeze-pulse-breakout) | C# · cTrader | GBPJPY H1 breakout system on TTM Squeeze logic, with EMA/ADX regime filters and partial-plus-trail exits. |
-| [Trend Pullback Bot](https://github.com/paul-kimani/trend-pullback-bot) | C# · cTrader | EMA trend filter with RSI pullback entries and ATR-scaled position sizing and stops. |
-| [Research Notebooks](https://github.com/paul-kimani/research) | Python | Pricing, volatility and time series experiments — the sandbox behind the strategies above. |
+| [Squeeze Pulse Breakout](https://github.com/paul-kimani/squeeze-pulse-breakout) | C# · cTrader | GBPJPY H1 breakout on TTM Squeeze logic, with EMA/ADX regime filters and partial-plus-trail exits. |
+| [Trend Pullback Bot](https://github.com/paul-kimani/trend-pullback-bot) | C# · cTrader | EMA trend filter, RSI pullback entries, ATR-scaled sizing and stops. |
+| [Research](https://github.com/paul-kimani/research) | Python | Pricing, volatility and time series notebooks — the sandbox behind everything above. |
+
+---
+
+### Focus
+
+```
+strategy design    ── signal construction · regime filters · execution logic
+validation         ── walk-forward · parameter stability · transaction costs
+time series        ── volatility estimation · stationarity · regime detection
+machine learning   ── interpretability · what scale actually buys you
+```
 
 ---
 
 ### Toolkit
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=58A6FF)
+![Julia](https://img.shields.io/badge/Julia-0D1117?style=flat-square&logo=julia&logoColor=58A6FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
 
-**Quantitative & data**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+**Quantitative & data**  
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=58A6FF)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF)
+![SciPy](https://img.shields.io/badge/SciPy-0D1117?style=flat-square&logo=scipy&logoColor=58A6FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=58A6FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=58A6FF)
+![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=58A6FF)
 
-**Platforms & infrastructure**
-![cTrader](https://img.shields.io/badge/cTrader-1B1F23?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Platforms**  
+![cTrader](https://img.shields.io/badge/cTrader-0D1117?style=flat-square&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=58A6FF)
 
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paul-kimani&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=8B949E&hide=issues" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-kimani&layout=compact&hide_border=true&bg_color=00000000&title_color=1F6FEB&text_color=8B949E&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paul-kimani&show_icons=true&hide_border=true&hide=issues&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-kimani&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=8B949E">
+</p>
+
+<p align="center">
+  <img src="https://github.com/paul-kimani/paul-kimani/blob/output/github-snake-dark.svg" width="100%">
 </p>
