@@ -70,14 +70,6 @@ Finance algorithms<br>I am a developer and mathematician<br>Quant finance and a 
 
 
 
-<!--🖼️ILOVEOPENSOURCE-->
-<p align="center">
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
-
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://open.spotify.com/embed/track/5n9PL4NTDNQiuFXFVc7euj?utm_source=generator"><img src="https://github.com/paul-kimani/paul-kimani/blob/main/alone-bitcoin.gif" height="240" width="370"></a>
-
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
