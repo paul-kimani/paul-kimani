@@ -5,7 +5,7 @@ on:
   push:
     paths:
       - "data/**.csv"
-      - "scripts/profile_cards.py"
+      - "scripts/*.py"
   schedule:
     - cron: "0 3 * * 1"   # Mondays, 03:00 UTC
 
@@ -29,6 +29,11 @@ jobs:
           python scripts/profile_cards.py --csv data/squeeze_pulse.csv \
             --name "Squeeze Pulse Breakout" --meta "GBPJPY · H1" --periods 6240 \
             --out assets/card-squeeze-pulse.svg
+
+      - name: Render stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/stats_card.py --user paul-kimani
 
       - name: Commit if changed
         run: |

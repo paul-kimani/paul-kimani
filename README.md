@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
 </p>
 
 <p align="center">
   <a href="https://paul-quant.vercel.app"><img src="https://img.shields.io/badge/Website-paul--quant-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-reach%20out-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
+  <a href="https://www.linkedin.com/in/paul-kimani-6b8987344"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
+  <a href="mailto:paul.kimani@strathmore.edu"><img src="https://img.shields.io/badge/Email-reach%20out-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
 </p>
 
 Year 3 Financial Engineering at Strathmore Institute of Mathematical Sciences. I build systematic
@@ -21,8 +21,8 @@ The cards below are generated from my own backtest exports by
 ### Live strategies
 
 <p align="center">
-  <img src="card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
-  <img src="card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
 </p>
 
 | Project | Stack | What it does |
@@ -74,10 +74,10 @@ machine learning   ── interpretability · what scale actually buys you
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=paul-kimani&show_icons=true&hide_border=true&hide=issues&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-kimani&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=8B949E">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-stats.svg" width="49%" alt="GitHub activity">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-langs.svg" width="49%" alt="Language distribution">
 </p>
 
 <p align="center">
-  <img src="https://github.com/paul-kimani/paul-kimani/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/output/github-snake-dark.svg" width="100%">
 </p>
