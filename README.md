@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/header.svg" width="100%" alt="Paul Mwaniki — Financial Engineering, Quantitative Research, Trading Systems">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 Year 3 Financial Engineering at Strathmore Institute of Mathematical Sciences. I build systematic
-trading strategies end to end — hypothesis, backtest, execution logic, live deployment — and spend
+trading strategies end to end, hypothesis, backtest, execution logic, live deployment, and spend
 the rest of my time on the statistics and machine learning that decide whether a model is worth
 trusting.
 
