@@ -21,8 +21,8 @@ The cards below are generated from my own backtest exports by
 ### Live strategies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
-  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/card-gold-pulse.svg" width="49%" alt="Gold Pulse strategy card">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/card-squeeze-pulse.svg" width="49%" alt="Squeeze Pulse Breakout strategy card">
 </p>
 
 | Project | Stack | What it does |
