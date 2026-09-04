@@ -74,8 +74,8 @@ machine learning   ── interpretability · what scale actually buys you
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-stats.svg" width="49%" alt="GitHub activity">
-  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/assets/card-langs.svg" width="49%" alt="Language distribution">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/card-stats.svg" width="49%" alt="GitHub activity">
+  <img src="https://raw.githubusercontent.com/paul-kimani/paul-kimani/main/card-langs.svg" width="49%" alt="Language distribution">
 </p>
 
 <p align="center">
