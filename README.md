@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://paul-quant.vercel.app"><img src="https://img.shields.io/badge/Website-paul--quant-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
+  <a href="https://paul-kimani.vercel.app"><img src="https://img.shields.io/badge/Website-paul--quant-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
   <a href="https://www.linkedin.com/in/paul-kimani-6b8987344"><img src="https://img.shields.io/badge/LinkedIn-connect-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
   <a href="mailto:paul.kimani@strathmore.edu"><img src="https://img.shields.io/badge/Email-reach%20out-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
 </p>
