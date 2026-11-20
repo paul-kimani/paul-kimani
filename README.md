@@ -8,7 +8,7 @@
   <a href="mailto:paul.kimani@strathmore.edu"><img src="https://img.shields.io/badge/Email-reach%20out-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF"></a>
 </p>
 
-Year 3 Financial Engineering at Strathmore Institute of Mathematical Sciences. I build systematic
+Bsc Financial Engineering. I build systematic
 trading strategies end to end, hypothesis, backtest, execution logic, live deployment, and spend
 the rest of my time on the statistics and machine learning that decide whether a model is worth
 trusting.
